@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ffaa11&height=300&section=header&text=안승진(S.J.%20Ahn)&fontSize=90&font-color=000000)
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=My%20Tech%20Stack&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=60&section=header&text=My%20Tech%20Stack&fontSize=40)
+<br>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>

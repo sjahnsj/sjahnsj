@@ -51,7 +51,7 @@ mySelf = {
   career = ["Computer and Mobile development", "Prduct Planning", "Procurement", "Business planning"],
   company = ["SamSung Electronincs", "SKTelecom", "Pantech", "Ajentech", "Hironic"],
   favoriteActivty = [()=>console.log("Coding"), ()=>console.log("Swimming"),
-                     ()=>console.log("Eating"), ()=>console.log("Sleeping")]
+                     ()=>console.log("Binge Watching"), ()=>console.log("Eating")]
 }
 ```
 

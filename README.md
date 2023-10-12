@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 
 ```
-// OBJECT_of_mySelf === instanceof SUCCESS;
+// Object of mySelf is to work together
 mySelf = {
   name = "안승진",
   place = "서울",

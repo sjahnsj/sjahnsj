@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안승진(S.J.%20Ahn)&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffaa11&height=300&section=header&text=안승진(S.J.%20Ahn)&fontSize=90&font-color=000000)
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=My%20Tech%20Stack&fontSize=40)

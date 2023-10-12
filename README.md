@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <br>
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=ffaa11&height=350&section=header&text=안승진(S.J.%20Ahn)&fontSize=50&font-color=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5555cc&height=200&section=header&text=안%20승%20진%20%20%20%20(S.J.%20Ahn)&fontSize=50&font-color=000000)
 ### 💻 Tech Stack
 <p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=ffaa11&height=150&section=footer&fontSize=50&font-color=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5555cc&height=100&section=footer&fontSize=50&font-color=000000)

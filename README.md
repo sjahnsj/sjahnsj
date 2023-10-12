@@ -13,12 +13,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=ffaa11&height=300&section=header&text=안승진(S.J.%20Ahn)&fontSize=90&font-color=000000)
-
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=60&section=header&text=My%20Tech%20Stack&fontSize=40)
 <br>
+-->
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffaa11&height=350&section=header&text=안승진(S.J.%20Ahn)&fontSize=50&font-color=000000)
+### 💻 Tech Stack
+<p>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+</p>
+
+### 🔨 Tool
+<p>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
+</p>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffaa11&height=150&section=footer&fontSize=50&font-color=000000)

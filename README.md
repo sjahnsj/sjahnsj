@@ -31,7 +31,15 @@ Here are some ideas to get you started:
 </p>
 
 ```
-myFavorateActivty = ["Coding", "Swinmming", "Eating", "Sleeping"]
+mySelf = {
+  name = "안승진":,
+  place = "서울";,
+  major = ["Computer Engineering", "Electrical Engineering"],
+  career = ["Computer and Mobile development", "Prduct Planning", "Procurement", "Business planning"],
+  company = ["SamSung Electroninc", "SKTelecom", "Pantech", "Ajentech", "Hironic"],
+  favoriteActivty = [()=>console.log("Coding"), ()=>console.log("Swimming"),
+                     ()=>console.log("Eating"), ()=>console.log("Sleeping")]
+}
 ```
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5555ff&height=100&section=footer&fontSize=50&font-color=ffffff)

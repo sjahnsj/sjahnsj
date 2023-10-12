@@ -32,11 +32,14 @@ Here are some ideas to get you started:
 
 ```
 mySelf = {
-  name = "안승진":,
-  place = "서울";,
-  major = ["Computer Engineering", "Electrical Engineering"],
+  name = "안승진",
+  place = "서울",
+  degree = {
+    bachelors = "Electrical Engineering",
+    masters = "Computer Engineering"
+  },
   career = ["Computer and Mobile development", "Prduct Planning", "Procurement", "Business planning"],
-  company = ["SamSung Electroninc", "SKTelecom", "Pantech", "Ajentech", "Hironic"],
+  company = ["SamSung Electronincs", "SKTelecom", "Pantech", "Ajentech", "Hironic"],
   favoriteActivty = [()=>console.log("Coding"), ()=>console.log("Swimming"),
                      ()=>console.log("Eating"), ()=>console.log("Sleeping")]
 }

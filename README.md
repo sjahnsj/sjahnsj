@@ -30,4 +30,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </p>
 
+```
+myFavorateActivty = ["Coding", "Swinmming", "Eating", "Sleeping"]
+```
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5555ff&height=100&section=footer&fontSize=50&font-color=ffffff)

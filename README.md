@@ -45,8 +45,8 @@ mySelf = {
   name : "안승진",
   place : "서울",
   degree : {
-    bachelors = "Electrical Engineering",
-    masters = "Computer Engineering"
+    bachelors : "Electrical Engineering",
+    masters : "Computer Engineering"
   },
   career : ["Computer and Mobile development", "Prduct Planning", "Procurement", "Business planning"],
   company : ["SamSung Electronincs", "SKTelecom", "Pantech", "Ajentech", "Hironic"],
